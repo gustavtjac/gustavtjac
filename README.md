@@ -9,8 +9,9 @@ I’m a backend-focused developer with strong experience in **Spring Boot, Java,
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=gustavtjac&theme=dark)
-
+![Followers](https://img.shields.io/github/followers/gustavtjac?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/gustavtjac?style=for-the-badge)
+![Repos](https://img.shields.io/github/repo-size/gustavtjac/HashpinEnforcer?style=for-the-badge)
 ---
 
 ## 🧰 Tech Stack
