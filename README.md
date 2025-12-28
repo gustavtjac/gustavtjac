@@ -9,9 +9,7 @@ I’m a backend-focused developer with strong experience in **Spring Boot, Java,
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=gustavtjac&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=gustavtjac&theme=github-dark&hide_border=true" />
+![GitHub Streak](https://streak-stats.demolab.com?user=gustavtjac&theme=dark)
 
 ---
 
