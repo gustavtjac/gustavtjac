@@ -29,15 +29,6 @@ I’m a backend-focused developer with strong experience in **Spring Boot, Java,
 
 ---
 
-## 🧠 What I focus on
-- Backend development with **Spring Boot & Java**
-- API design & database modeling
-- Linux-based systems and automation
-- AI-assisted tooling and data-driven solutions
-- Secure and reproducible CI/CD workflows
-
----
-
 ## 🌟 Featured Project
 
 ### 🔐 Hashpin Enforcer
