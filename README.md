@@ -8,8 +8,6 @@ I’m a backend-focused developer with strong experience in **Spring Boot, Java,
 ---
 
 ## 📊 GitHub Stats
-
-![Gustav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavtjac&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=gustavtjac&theme=tokyonight)
 
 ---
